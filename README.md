@@ -1,1 +1,1 @@
-These are assigement for phython language.
+These are assigement for python language.
